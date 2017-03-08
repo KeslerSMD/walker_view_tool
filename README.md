@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WalkerViewTool::Renderer.copyright 'Devan Walker', 'All rights reserved'
+```
 
 ## Development
 
